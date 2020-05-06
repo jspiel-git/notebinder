@@ -1,0 +1,13 @@
+appicon/
+
+build/
+
+building_notes.txt
+
+notebinder-env/
+
+dist/
+
+setup.py
+
+.DS_Store

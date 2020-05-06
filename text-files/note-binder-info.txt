@@ -1,0 +1,7 @@
+This simple note taking tool allows you to organise multiple text files in a single place. 
+
+By clicking "Add Note..." you will create a new note file which corresponds to a text file created in the "text-files" folder. These files are of the form "note-YYYY-MM-DD-NUMBER" where YYYY/MM/DD represents the current date and NUMBER is used to obtain unique file names.
+
+Double-clicking the note opens the text file in the standard text editor of the OS. The notes can be removed by clicking "Delete Note..." and modified using "Change Note Name..."
+
+Note Binder was created by Jérôme Spielmann (jeromespielmann.com).
